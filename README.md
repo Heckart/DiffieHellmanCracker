@@ -34,9 +34,9 @@ All code is in the `src/` directory. The main driver is in `src/main.rs`. Below 
 # Background Reading Material
 To gain a better understanding of what exactly is happening here, I suggest reading from the following sources:
 
-https://cs-mst.gitlab.io/index/Classes/Security/Content/07-CryptoMath.html
+https://cs-mst.gitlab.io/index/Classes/Security/Content/CryptoMath.html
 
-https://cs-mst.gitlab.io/index/Classes/Security/Content/08-AsymmetricEncryption.html#diffie-hellman-1
+https://cs-mst.gitlab.io/index/Classes/Security/Content/AsymmetricEncryption.html#diffie-hellman
 
 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
 
